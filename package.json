@@ -1,0 +1,14 @@
+{
+  "name": "nodecrud",
+  "version": "1.0.0",
+  "description": "\"CRUD app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Desi Dimova",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.387.0"
+  }
+}
